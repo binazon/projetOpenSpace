@@ -1,2 +1,5 @@
 Question :
 All methods are correct ?
+**************************************************
+C'est déja quand-meme bon pour un debut.....
+Je tenvoi mon code tu essayes de regarder et voir les ameliorations à faire sur ton code.
